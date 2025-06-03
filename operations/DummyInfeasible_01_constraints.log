@@ -1,0 +1,4 @@
+2025-06-02 17:15:59,618 - VRPOR_ConstraintsLog_DummyInfeasible_01 - INFO - --- Starting optimization for instance: DummyInfeasible_01 ---
+2025-06-02 17:15:59,618 - VRPOR_ConstraintsLog_DummyInfeasible_01 - INFO - Time limit: 10s, MIP Gap: 0.1, Gurobi LogToConsole: 0
+2025-06-02 17:15:59,621 - VRPOR_ConstraintsLog_DummyInfeasible_01 - INFO - Optimization ended. Status: Infeasible or Unbounded, Solve Time: 0.00s
+2025-06-02 17:15:59,621 - VRPOR_ConstraintsLog_DummyInfeasible_01 - INFO - --- Finished processing instance: DummyInfeasible_01 ---

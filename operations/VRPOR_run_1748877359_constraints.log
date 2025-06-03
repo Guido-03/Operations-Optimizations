@@ -1,0 +1,2 @@
+2025-06-02 17:15:59,671 - VRPOR_ConstraintsLog_VRPOR_run_1748877359 - INFO - --- Starting optimization for instance: VRPOR_run_1748877359 ---
+2025-06-02 17:15:59,671 - VRPOR_ConstraintsLog_VRPOR_run_1748877359 - INFO - Time limit: 90s, MIP Gap: 0.01, Gurobi LogToConsole: 1
